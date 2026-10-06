@@ -8,7 +8,7 @@ Here are some ideas to get you started:
  🤔 I’m looking for help with 
  -->
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on projects for a local foundation!
 - 🌱 I’m currently learning Rust and Robotic.
   
 - 💬 Ask me about cats/weight lifting 
