@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 ## 📫 How to reach me
 
 - 🦋 Bluesky: [@sabrinalindev.bsky.social](https://bsky.app/profile/sabrinalindev.bsky.social)
-- 💼 LinkedIn: [Sabrina Lin](https://www.linkedin.com/in/sabrinalindev)
 - 📧 Email: sabrinalindev@gmail.com
-- 💻 GitHub: [@sabrinalindev](https://github.com/sabrinalindev)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I can speak 4 languages - guess what they are
