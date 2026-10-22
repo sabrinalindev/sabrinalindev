@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about cats/weight lifting 
 
 ## ✨ My skills: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react)](https://skillicons.dev)
 
 ## 📫 How to reach me
 
