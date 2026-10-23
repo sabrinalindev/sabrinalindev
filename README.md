@@ -8,13 +8,13 @@ Here are some ideas to get you started:
  👯 I’m looking to collaborate on ...
  🤔 I’m looking for help with 
  -->
-<p align="center">I'm a software engineer, I building tools for local small businesses and organizations.</p>
+<p align="center">I'm a software engineer. I build tools for local small businesses and organizations.</p>
 
-<p align="center">Technology is a powerful leverage, a few lines of codes can make big impacts! </p>
+<p align="center">Technology is powerful leverage; a few lines of codes can make big impacts! </p>
 
 ## 🌱 Currently working on: 
-- 🔭 I’m currently working on a project that tracking my own personal health care data by connecting with multiple smart devides.
-- 🌱 I’m currently learning Rust and Robotic.
+- 🔭 I’m currently working on a project that tracks my own personal health care data by connecting with multiple smart devices.
+- 🌱 I’m currently learning Rust and robotics.
 - 💬 Ask me about cats/weight lifting 
 
 ## ✨ My skills: 
